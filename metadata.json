@@ -1,0 +1,6 @@
+{
+  "name": "Elite Premium Keyboard",
+  "description": "A feature-rich Android keyboard with phonetic Banglish support, voice typing, and premium customizable themes inspired by Redmi Keyboard.",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": ["Android Keyboard Engine", "Speech-to-Text", "Banglish Phonetic Typing", "Dynamic Theming"]
+}
